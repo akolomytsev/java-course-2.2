@@ -1,4 +1,4 @@
-package Exception;
+package Task2;
 
 public class MyArraySizeException extends RuntimeException {
 
