@@ -50,7 +50,7 @@ public class Server_Chat {
                     break;
                 }*/
                 System.out.println("Client: " + msg);
-                //               out.flush(); // это автоматический/принудительный сброс буфера вывода
+                 //               out.flush(); // это автоматический/принудительный сброс буфера вывода
             }
         } catch (IOException e) {
             e.printStackTrace();
